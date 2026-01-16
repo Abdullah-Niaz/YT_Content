@@ -6,7 +6,7 @@ This repo currently includes examples for **C++**, **Java**, **JavaScript**, and
 
 Visit my YouTube channel for more videos, explanations, and tutorials.
 
-**YouTube Channel:** [https://www.youtube.com/@abdullahniaz09](https://www.youtube.com/@abdullahniaz09) ([GitHub][1])
+**YouTube Channel:** [https://www.youtube.com/@codeurcoffe](https://www.youtube.com/@codeurcoffe)
 
 ---
 
@@ -88,6 +88,6 @@ To contribute:
 
 Follow the videos and tutorials on my YouTube Channel:
 
-**YouTube:** [https://www.youtube.com/@abdullahniaz09](https://www.youtube.com/@abdullahniaz09) ([GitHub][1])
+**YouTube:** [https://www.youtube.com/@codeurcoffe](https://www.youtube.com/@abdullahniaz09) ([GitHub][1])
 
 If you have questions or suggestions regarding content improvements or requests for specific topics, feel free to open an issue in this repository.
